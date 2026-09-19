@@ -3,7 +3,7 @@ import AnimatedText from "./AnimatedText";
 import ContactButton from "./ContactButton";
 
 const ABOUT_TEXT =
-  "Software Engineer at Graybulls Advisors LLP with hands-on experience in Python, FastAPI, blockchain development, and data engineering. I build scalable backend systems, AWS-powered data pipelines, and Web3 integrations — transforming complex technical challenges into reliable, production-ready solutions.";
+  "AI Engineer at Graybulls Advisors LLP with 3+ years building intelligent systems, AI Agents, and data-driven applications. Specialized in Generative AI architectures using LangChain, LangGraph, and LangSmith, RAG pipelines, and LLM orchestration with OpenAI and Groq. I pair a strong Python backend foundation (FastAPI, Django REST) with deep expertise in computer vision, NLP, and data engineering — delivering production-grade AI solutions for clients across Finance, DeFi/Crypto, and Harbor Automation.";
 
 export default function AboutSection() {
   return (

@@ -3,28 +3,28 @@ import FadeIn from "./FadeIn";
 const SERVICES = [
   {
     num: "01",
-    name: "Backend Development",
-    desc: "Building robust and scalable backend systems using Python and FastAPI, with RESTful API design, database integration, and clean architecture.",
+    name: "AI Agents & RAG",
+    desc: "Architecting autonomous AI Agent systems and Retrieval-Augmented Generation pipelines using LangChain, LangGraph, and LangSmith for intelligent, multi-step task execution.",
   },
   {
     num: "02",
-    name: "Data Engineering",
-    desc: "Designing and deploying end-to-end data pipelines for extraction, transformation, and analysis — including real-time streaming with AWS SQS and PostgreSQL.",
+    name: "LLM Orchestration",
+    desc: "Integrating OpenAI and Groq APIs for context-aware, production-grade LLM applications — with prompt engineering, multi-agent design, and end-to-end tracing.",
   },
   {
     num: "03",
-    name: "Blockchain Development",
-    desc: "Integrating Web2 and Web3 APIs, collecting and analyzing cryptocurrency data, and building decentralized application backends.",
+    name: "Computer Vision & ML",
+    desc: "Building face recognition, object detection, and predictive ML pipelines with YOLOv8, InsightFace (ArcFace), PyTorch, and Scikit-Learn.",
   },
   {
     num: "04",
-    name: "Cloud Deployment",
-    desc: "Deploying production applications on AWS — EC2 instances, Amazon RDS databases, S3 storage, and automated CI/CD pipelines for seamless delivery.",
+    name: "Data Engineering",
+    desc: "Designing end-to-end ETL and streaming pipelines with PySpark, Apache Airflow, AWS SQS, and PostgreSQL for large-scale data ingestion and analysis.",
   },
   {
     num: "05",
-    name: "AI & Automation",
-    desc: "Building intelligent automation tools — Telegram bots, Chrome extensions, and LLM-powered assistants using LangChain and OpenAI APIs.",
+    name: "Backend & Cloud",
+    desc: "Building scalable REST APIs with FastAPI and Django REST Framework, deployed on AWS, Docker, and Railway with production-grade architecture.",
   },
 ];
 
